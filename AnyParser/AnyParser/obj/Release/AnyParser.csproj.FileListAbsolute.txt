@@ -1,0 +1,9 @@
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\bin\Release\AnyParser.cs
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\bin\Release\AnyParser.exe
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\bin\Release\AnyParser.pdb
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\obj\Release\AnyParser.csprojResolveAssemblyReference.cache
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\obj\Release\AnyParser.Form2.resources
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\obj\Release\AnyParser.Properties.Resources.resources
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\obj\Release\AnyParser.csproj.GenerateResource.Cache
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\obj\Release\AnyParser.exe
+D:\old desktop 2\formation WP 8.1\WPF\mein\AnyParser\AnyParser\obj\Release\AnyParser.pdb

@@ -1,0 +1,20 @@
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\bin\Debug\Test_Browser.exe
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\bin\Debug\Test_Browser.pdb
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.csprojResolveAssemblyReference.cache
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.fWebBrowser.resources
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.UCFavoris.resources
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.Properties.Resources.resources
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.csproj.GenerateResource.Cache
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.exe
+C:\Users\Amine Ghozzi\Desktop\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.pdb
+C:\Users\Amine Ghozzi\Desktop\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.exe
+C:\Users\Amine Ghozzi\Desktop\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.pdb
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.exe
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.pdb
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\bin\Debug\Test_Browser.exe
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\bin\Debug\Test_Browser.pdb
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.csprojResolveAssemblyReference.cache
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.fWebBrowser.resources
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.UCFavoris.resources
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.Properties.Resources.resources
+D:\old desktop 2\formation WP 8.1\WPF\wppf\41997-1175653-navigateur-web-simple\obj\Debug\Test_Browser.csproj.GenerateResource.Cache
